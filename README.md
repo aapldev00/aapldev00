@@ -29,3 +29,6 @@ I am a Computer Scientist focused on understanding the "how" and "why" behind th
 
 ---
 *"I believe in building technically complex systems that are creative by nature."*
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=vision-friendly-dark&hide=php,html,css)
