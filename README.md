@@ -8,7 +8,7 @@ I am a Computer Scientist focused on understanding the "how" and "why" behind th
 ### 🧪 Currently Deep-Diving Into:
 | Project | Language | The Challenge | Status |
 | :--- | :---: | :--- | :--- |
-| **[Toy-Compiler]** | `C` | Implementing Lexical Analysis and Abstract Syntax Trees (AST) from scratch to understand machine translation. | 🚧 Active Development |
+| **Toy-Compiler** | `C` | Implementing Lexical and Semantic Analysis from scratch to understand machine translation. | 🚧 Active Development |
 
 ### 📚 My Learning Roadmap
 *To maintain honesty: I am not an expert in these yet, but I am actively committing code to master them.*
