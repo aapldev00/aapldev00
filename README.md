@@ -8,13 +8,13 @@ I am a Computer Scientist focused on understanding the "how" and "why" behind th
 ### 🧪 Currently Deep-Diving Into:
 | Project | Language | The Challenge | Status |
 | :--- | :---: | :--- | :--- |
-| **[Toy-Compiler](link-a-tu-repo)** | `C` | Implementing Lexical Analysis and Abstract Syntax Trees (AST) from scratch to understand machine translation. | 🚧 Active Development |
+| **[Toy-Compiler]** | `C` | Implementing Lexical Analysis and Abstract Syntax Trees (AST) from scratch to understand machine translation. | 🚧 Active Development |
 
 ### 📚 My Learning Roadmap
 *To maintain honesty: I am not an expert in these yet, but I am actively committing code to master them.*
 
 1.  **Memory Safety with Rust:** Moving beyond C's manual management to understand ownership and Borrow Checker patterns.
-2.  **Concurrency with Go:** Exploring CSP (Communicating Sequential Processes) and high-performance backend orchestration.
+2.  **Concurrency with Go:** Exploring CSP and high-performance backend orchestration.
 3.  **Physical Simulations:** Starting my first 2D physics engine.
 
 ---
