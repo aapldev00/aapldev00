@@ -36,6 +36,3 @@ My current work combines **low-level fundamentals** (memory, parsing, execution 
 
 **High-Performance Backends** • **Systems Design** • **Simulation & Engine Architecture**
 
----
-
-*"I focus on building systems that are both technically solid and practically useful."*
