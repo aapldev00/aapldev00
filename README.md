@@ -1,31 +1,41 @@
-# 🛠️ AAPL | Systems Engineering & Low-Level Exploration
+## 🛠️ AAPL | Backend & Systems Engineering
 
-> "Building the foundations, one pointer at a time."
+> "Building reliable systems from the inside out."
 
-I am a Computer Scientist focused on understanding the "how" and "why" behind the tools we use. My current path is moving away from high-level abstractions to master **systems programming**, **performance**, and **concurrency**.
+I am a Computer Science student focused on understanding how systems work under the hood while building **practical, performant backend services**.
+
+My current work combines **low-level fundamentals** (memory, parsing, execution models) with **real-world backend development** using Go.
 
 ---
-### 🧪 Currently Deep-Diving Into:
-| Project | Language | The Challenge | Status |
+
+### 🚧 Current Work
+
+| Project | Language | Focus | Status |
 | :--- | :---: | :--- | :--- |
-| **Toy-Compiler** | `C` | Implementing Lexical and Semantic Analysis from scratch to understand machine translation. | 🚧 Active Development |
-
-### 📚 My Learning Roadmap
-*To maintain honesty: I am not an expert in these yet, but I am actively committing code to master them.*
-
-1.  **Memory Safety with Rust:** Moving beyond C's manual management to understand ownership and Borrow Checker patterns.
-2.  **Concurrency with Go:** Exploring CSP and high-performance backend orchestration.
-3.  **Physical Simulations:** Starting my first 2D physics engine.
+| **Toy Compiler** | `C` | Lexical, syntactic and basic semantic analysis to understand language execution | 🚧 Paused |
 
 ---
-### 🛠️ The Toolkit
-*   **Active Use:** ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c) (For the compiler and core logic)
-*   **In Transition:** ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-*   **Legacy/Scripting:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) (Data glue and automation)
+
+### 📚 Focus Areas
+
+- **Backend Development (Go):** Building APIs, handling concurrency, and designing scalable services  
+- **Systems Fundamentals:** Memory management, parsing, and program execution  
+- **Concurrency Models:** Practical use of goroutines, channels, and task coordination  
 
 ---
-### 🎯 Areas of Interest
-**High-Performance Backends** • **Game Engine Architecture** • **Scientific Simulations**
+
+### 🛠️ Tech Stack
+
+- **Primary:** Go, C  
+- **Secondary:** Rust (exploration of memory safety and systems concepts), Python (Data glue and scripting)  
+- **Tools:** Docker, Git  
 
 ---
-*"I believe in building technically complex systems that are creative by nature."*
+
+### 🎯 Interests
+
+**High-Performance Backends** • **Systems Design** • **Simulation & Engine Architecture**
+
+---
+
+*"I focus on building systems that are both technically solid and practically useful."*
