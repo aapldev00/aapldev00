@@ -12,6 +12,7 @@ My current work combines **low-level fundamentals** (memory, parsing, execution 
 
 | Project | Language | Focus | Status |
 | :--- | :---: | :--- | :--- |
+| **GaaS Engine** | `Go` | High-performance synthetic data generator using gRPC streaming, worker pools, and zero-allocation memory recycling | 🚀 Active |
 | **Toy Compiler** | `C` | Lexical, syntactic and basic semantic analysis to understand language execution | 🚧 Paused |
 
 ---
