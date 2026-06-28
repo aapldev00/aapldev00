@@ -1,39 +1,38 @@
-## 🛠️ AAPL | Backend & Systems Engineering
+## 🛠️ AAPL | Full-Stack Architecture & Systems
 
-> "Building reliable systems from the inside out."
+> "Bridging the gap between low-level efficiency and modern web delivery."
 
-I am a Computer Science student focused on understanding how systems work under the hood while building **practical, performant backend services**.
+I am a Computer Science student focused on building **performant, end-to-end applications**. I bring the rigor of backend systems, concurrency, and memory optimization to the fast-paced world of modern full-stack development.
 
-My current work combines **low-level fundamentals** (memory, parsing, execution models) with **real-world backend development** using Go.
+My work spans from building high-throughput services in **Go** to engineering scalable, server-rendered web architectures using **Next.js**.
 
 ---
 
 ### 🚧 Current Work
 
-| Project | Language | Focus | Status |
+| Project | Stack | Focus | Status |
 | :--- | :---: | :--- | :--- |
-| **GaaS Engine** | `Go` | High-performance synthetic data generator using gRPC streaming, worker pools, and zero-allocation memory recycling | 🚀 Active |
-| **Toy Compiler** | `C` | Lexical, syntactic and basic semantic analysis to understand language execution | 🚧 Paused |
+| **Production Web Apps** | `Next.js` / `TS` | Optimizing server-side rendering (SSR), data-fetching pipelines, and edge runtime efficiency | 💼 Professional |
+| **GaaS Engine** | `Go` | High-performance synthetic data generator using gRPC streaming and zero-allocation memory recycling | 🚀 Active |
 
 ---
 
 ### 📚 Focus Areas
 
-- **Backend Development (Go):** Building APIs, handling concurrency, and designing scalable services  
-- **Systems Fundamentals:** Memory management, parsing, and program execution  
-- **Concurrency Models:** Practical use of goroutines, channels, and task coordination  
+- **Modern Web Architecture (Next.js / Node.js):** Designing scalable, server-rendered applications, edge computing, and API integration.
+- **Backend & Systems (Go / C):** High-performance services, concurrency handling (goroutines/channels), and memory management fundamentals.
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Primary:** Go, C  
-- **Secondary:** Rust (exploration of memory safety and systems concepts), Python (Data glue and scripting)  
-- **Tools:** Docker, Git  
+- **Languages:** Go, TypeScript, Python
+- **Frameworks & Runtimes:** Next.js, Node.js, Gin
+- **Tools & Infra:** Docker, Git, Linux Fundamentals
 
 ---
 
 ### 🎯 Interests
 
-**High-Performance Backends** • **Systems Design** • **Simulation & Engine Architecture**
+**High-Performance Web** • **Backend Architecture** • **Systems Design & Optimization**
 
